@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-
-cout<<"hello world";
-cout<<"\n this is first program";
+int a,b=8,c=6;
+a=b+c;
+cout<<"\n sum="<<a;
 
 return 0;
 }
